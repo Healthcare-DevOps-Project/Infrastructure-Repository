@@ -1,38 +1,19 @@
 ## Description
-
-Describe the changes made in this Pull Request.
+Describe the changes.
 
 ## Type of Change
-
-- [ ] New Feature
+- [ ] Feature
 - [ ] Bug Fix
-- [ ] Infrastructure Change
-- [ ] CI/CD Change
-- [ ] Documentation Update
-
-## Related Jira Work Item
-
-Jira ID:
-
-## Changes Made
-
-- 
-- 
-- 
+- [ ] Infrastructure
+- [ ] CI/CD
+- [ ] Documentation
 
 ## Testing
-
 - [ ] Tested locally
 - [ ] Build successful
-- [ ] Required tests passed
+- [ ] Tests passed
 
 ## Checklist
-
-- [ ] Code follows project standards
-- [ ] No passwords, tokens, or credentials committed
-- [ ] Documentation updated if required
-- [ ] Ready for reviewer approval
-
-## Reviewer Notes
-
-Add any additional information for the reviewer.
+- [ ] No credentials committed
+- [ ] Documentation updated
+- [ ] Ready for review
